@@ -1,0 +1,12 @@
+.cardBox{
+    margin: auto;
+}
+.cardContent{
+    height: 75%;
+    width: 95%;
+}
+.inputForm{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
